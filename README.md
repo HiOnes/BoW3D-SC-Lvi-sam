@@ -31,16 +31,7 @@
   cd ..
   catkin_make
   ```
----
-
-### bag包和真值轨迹文件下载
-```
-https://zjueducn-
-my.sharepoint.com/:f:/g/personal/3180105753_zju_edu_cn/EjHOuH84D6lFtw1p6qOIeIkB-
-jjzJAVM6oX85jSwsteNXA?e=niULkg
-```
-- 密码: `zju18970521`
-
+  
 ---
 
 ### 回环检测模式切换
